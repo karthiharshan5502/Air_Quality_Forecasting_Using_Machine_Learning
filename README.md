@@ -24,7 +24,7 @@ Goal: predict hourly PM10 (and/or PM2.5) using regression, MLP, LSTM.
 Data description
 Source (Environmental Auckland Data Portal).
 
-Station used (Penrose or Takapuna).
+Station used (Takapuna).
 
 Main variables: PM10/PM2.5, lags, NO, NO2, AQI, temperature, humidity, wind speed/direction, solar radiation.
 
